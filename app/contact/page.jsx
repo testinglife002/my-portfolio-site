@@ -8,8 +8,8 @@ export default function Contact() {
         Let’s discuss your project. I usually respond within 24 hours.
       </p>
 
-      <p>Email: contact@digitalelevation.com</p>
-      <p>WhatsApp: +880XXXXXXXXX</p>
+      <p>Email: nazmur.rashid077@gmail.com</p>
+      <p>WhatsApp: +8801617063739</p>
     </section>
   );
 }
